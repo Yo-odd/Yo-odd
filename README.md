@@ -24,7 +24,7 @@ about me...
 
   - 🎐 all this – it’s not me, inside, and I am…more!
 	  
-    -i sometimes when feel like it, like to draw🎨 digital illustrations, not an pro or something like that, but it helps to keep the human in me going on. 
+    -sometimes when feel like it,i like to draw🎨 digital illustrations, not an pro or something like that, but it helps to keep the human in me going on. 
 	  
     -one of those programmer, who loves 🎶 with 👨‍💻
 	  
