@@ -1,9 +1,6 @@
 ### Namaste 🙏
 ####  I'm Yogesh Od, you can call me just Od (O-di)
 
-    one liner...
-    Engineer by 🧠, Artist by 💗...
-
 about me...
 
  - 🎓 BE-IT   *Limitted Covid Eddition release [2020 passout]*
@@ -17,16 +14,9 @@ about me...
 		 	
  - 🔮 What I'm Learning
 	  
-	 - [ ] [       ![flat-square](https://shields.io/badge/React.Js-white?logo=React&style=flat-square)](https://reactjs.org)
-	- [ ] [  ![flat-square](https://shields.io/badge/Redux.Js-white?logo=Redux&logoColor=764ABC&style=flat-square)](https://redux.js.org)	
-	- [ ] [![flat-square](https://shields.io/badge/NGINX-white?logo=NGINX&logoColor=success&style=flat-square)](https://www.nginx.com) 
+	- [ ] [       ![flat-square](https://shields.io/badge/React.Js-white?logo=React&style=flat-square)](https://reactjs.org)
 	- [ ] ... (and the list just goes on 👻)
 
-  - 🎐 all this – it’s not me, inside, and I am…more!
-	  
-    -sometimes when feel like it,i like to draw🎨 digital illustrations, not an pro or something like that, but it helps to keep the human in me going on. 
-	  
-    -one of those programmer, who loves 🎶 with 👨‍💻
 	  
 <!--
 
